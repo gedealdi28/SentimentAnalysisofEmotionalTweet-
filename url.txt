@@ -1,0 +1,2 @@
+Dataset url     : https://www.kaggle.com/datasets/nelgiriyewithana/emotions
+Deployment url  : https://huggingface.co/spaces/GedeAldi/GC7
